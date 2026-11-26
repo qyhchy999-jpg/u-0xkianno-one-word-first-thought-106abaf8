@@ -13,6 +13,8 @@ import { join } from "node:path";
 // unhurried. It lands as a small discovery because most people have
 // heard the sound but never named it, and a word that makes the
 // reader hear something wins on interest alone.
+// It sounds like what it means: deep, round, and rolling in slowly.
+// A word readers can hear in their heads before they finish reading it.
 const LINE = "Sonorous";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
